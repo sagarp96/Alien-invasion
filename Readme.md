@@ -1,3 +1,4 @@
-a simple pygame using python module
+A simple pygame with different levels and difficulties 
+A user score and highscore 
 
-With levels and user score 
+Different levels have different difficulties and the score is based on the difficulties
