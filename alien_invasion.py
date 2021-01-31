@@ -26,7 +26,7 @@ class AlienInvasion:
     def run_game(self):
         while True:
             self._check_events()
-            if self.stats.game_active:
+            if self.stats.game_active: #something to be doner here
                 self.ship.update() 
                 self._update_bullets()
                 self._update_aliens()
